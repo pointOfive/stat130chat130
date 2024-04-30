@@ -1,4 +1,4 @@
-# STA130: Introduction to Statistical Reasoning and Data Science
+# ChatGPT eats STA130: Introduction to Statistical Reasoning and Data Science
 
 - Google "uoft jupyterhub" -> [https://datatools.utoronto.ca](https://datatools.utoronto.ca)
   - Choose "jupyter" [https://jupyter.utoronto.ca/](https://jupyter.utoronto.ca/) -> and then created a "New Python 3 (ipykernel)" to open a notebook
