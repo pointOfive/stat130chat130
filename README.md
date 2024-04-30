@@ -10,7 +10,7 @@
 |02|Coding        |[Sep13](TUT/STA130F24_TUT02_Sep13.ipynb)|[Sep16](LEC/STA130F24_LEC01_Sep16.ipynb)|Scott|Edric+Serena|
 |03|Visualization |[Sep20](TUT/STA130F24_TUT02_Sep20.ipynb)|[Sep23](LEC/STA130F24_LEC01_Sep23.ipynb)|Scott|Ali+Alex    |
 |04|Bootstrapping |Sep27|Sep30|Ali|Alex|
-|--|Review/Exam   |Oct04|Oct07|   | |
+|--|Review/Exam   |Oct04 + Oct11|Oct07|   | |
 |--|Thanksgiving  |     |     |   | |
 |05|Regression I  |Oct18|Oct21|Shiraz|Serena|
 |--|Reading Week  |     |     |   | |
