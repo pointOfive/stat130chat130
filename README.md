@@ -19,7 +19,7 @@
 |08|Classification|Nov15|Nov18|Ray|Edric|
 |09|Ethics        |Nov22|Nov25|Edric|Ray|
 |10|Review        |     |Dec02|  | |
-|11|Projects      |Dec03|     |  | |
+|11|Projects      |     |Dec03(Tuesday)|  | |
 
 
 
