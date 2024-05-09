@@ -57,7 +57,7 @@ git clone <paste-the-copied-URL-here>
 
 Replace **`<paste-the-copied-URL-here>`** with the URL you copied from GitHub.
 
-1. Creating a New Branch
+2. Creating a New Branch
 - **Navigate into the Repository Directory**:
 
 ```
@@ -88,7 +88,7 @@ git add <file-name>
 
 Replace **`<file-name>`** with the name of the file you changed, or use **`.`** to add all changed files.
 
-1. **Commit Your Changes:**
+2. **Commit Your Changes:**
 
 ```
 git commit -m "<Your commit message>"
@@ -96,13 +96,13 @@ git commit -m "<Your commit message>"
 
 Replace **`<Your commit message>`** with a brief description of what has been changed.
 
-1. **Push to Remote Repository:**
+3. **Push to Remote Repository:**
 
 ```bash
 git push origin <branch-name>
 ```
 
-1. **Update Your Branch with Latest Main Branch Changes:**
+4. **Update Your Branch with Latest Main Branch Changes:**
 
 ```bash
 git checkout main
@@ -113,10 +113,10 @@ git rebase main
 git push -f origin <branch-name>
 ```
 
-1. **Create a Pull Request:**
+5. **Create a Pull Request:**
     - Go to GitHub and navigate to the repository page. You should see your branch and have the option to "Create a pull request.”
     - Follow the instructions on GitHub to create the pull request.
-2. **After Pull Request Approval:**
+6. **After Pull Request Approval:**
     - Once your pull request is approved and merged, you can delete your branch on GitHub.
     - Clean up your local repository:
     
