@@ -7,23 +7,19 @@
 |  |Topic         |TUT(Friday)|LEC(Monday)|Draft|Reviewer|
 |--|--------------|-----------|-----------|-----|--------|
 |01|Data Wrangling|[Sep06](TUT/STA130F24_TUT01_Sep06.ipynb)|[Sep09](LEC/STA130F24_LEC01_Sep09.ipynb)|Scott|Shiraz+Ray  |
-|02|Coding        |[Sep13](TUT/STA130F24_TUT02_Sep13.ipynb)|[Sep16](LEC/STA130F24_LEC01_Sep16.ipynb)|Scott|Edric+Serena|
-|03|Visualization |[Sep20](TUT/STA130F24_TUT02_Sep20.ipynb)|[Sep23](LEC/STA130F24_LEC01_Sep23.ipynb)|Scott|Ali+Alex    |
+|02|Coding        |[Sep13](TUT/STA130F24_TUT02_Sep13.ipynb)|[Sep16](LEC/STA130F24_LEC02_Sep16.ipynb)|Scott|Edric+Serena|
+|03|Visualization |[Sep20](TUT/STA130F24_TUT03_Sep20.ipynb)|[Sep23](LEC/STA130F24_LEC03_Sep23.ipynb)|Scott|Ali+Alex    |
 |04|Bootstrapping |Sep27|Sep30|Ali|Alex|
 |--|Review/Exam   |Oct04/Oct11|Oct07|   | |
 |--|Thanksgiving  |     |     |   | |
 |05|Regression I  |Oct18|Oct21|Shiraz|Serena|
 |--|Reading Week  |     |     |   | |
 |06|Testing       |Oct25|Nov04|Alex|Ali|
-|07|Regression II |Nov08|Nov11|Serena|Shiraz|
-|08|Classification|Nov15|Nov18|Ray|Edric|
-|09|Ethics        |Nov22|Nov25|Edric|Ray|
+|07|Regression II |[Nov08](STA130F24_TUT07_Nov08.ipynb)|[Nov11](STA130F24_LEC07_Nov11.ipynb)|Serena|Shiraz|
+|08|Classification|[Nov15](STA130F24_TUT08_Nov15.ipynb)|[Nov18](STA130F24_LEC08_Nov18.ipynb)|Ray|Edric|
+|09|Ethics        |[Nov22](STA130F24_TUT09_Nov22.ipynb)|Nov25|Edric|Ray|
 |10|Review        |     |Dec02|  | |
 |11|Projects      |     |Dec03(Tuesday)|  | |
-
-
-
-
 
 ## Learning Objectives
 
