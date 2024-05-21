@@ -10,11 +10,13 @@
 |02|Coding        |[Sep13](TUT/STA130F24_TUT02_Sep13.ipynb)|[Sep16](LEC/STA130F24_LEC02_Sep16.ipynb)|Scott|Edric+Serena|
 |03|Visualization |[Sep20](TUT/STA130F24_TUT03_Sep20.ipynb)|[Sep23](LEC/STA130F24_LEC03_Sep23.ipynb)|Scott|Ali+Alex    |
 |04|Bootstrapping |[Sep27](TUT/STA130F24_TUT04_Sep27.ipynb)|[Sep30](LEC/STA130F24_LEC04_Sep30.ipynb)|Ali|Alex|
-|--|Review/Exam   |Oct04/Oct11|Oct07|   | |
-|--|Thanksgiving  |     |     |   | |
+|4B|Testing/Review|Oct04|Oct07|   | |
+|--|MTexam/Thnxgng|Oct11|Oct14| | |
 |05|Regression I  |Oct18|Oct21|Shiraz|Serena|
-|--|Reading Week  |     |     |   | |
-|06|Testing       |Oct25|Nov04|Alex|Ali|
+|06|Testing       |Oct25|     |Alex|Ali|
+|--|Reading Week  |     |Oct28|   | |
+|--|Reading Week  |Nov01|     |   | |
+|06|Testing       |     |Nov04|Alex|Ali|
 |07|Regression II |[Nov08](STA130F24_TUT07_Nov08.ipynb)|[Nov11](STA130F24_LEC07_Nov11.ipynb)|Serena|Shiraz|
 |08|Classification|[Nov15](STA130F24_TUT08_Nov15.ipynb)|[Nov18](STA130F24_LEC08_Nov18.ipynb)|Ray|Edric|
 |09|Ethics        |[Nov22](STA130F24_TUT09_Nov22.ipynb)|Nov25|Edric|Ray|
