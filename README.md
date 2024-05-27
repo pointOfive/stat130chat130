@@ -10,13 +10,14 @@
 |02|Coding        |[Sep13](TUT/STA130F24_TUT02_Sep13.ipynb)|[Sep16](LEC/STA130F24_LEC02_Sep16.ipynb)|Scott|Edric+Serena|
 |03|Visualization |[Sep20](TUT/STA130F24_TUT03_Sep20.ipynb)|[Sep23](LEC/STA130F24_LEC03_Sep23.ipynb)|Scott|Ali+Alex    |
 |04|Bootstrapping |[Sep27](TUT/STA130F24_TUT04_Sep27.ipynb)|[Sep30](LEC/STA130F24_LEC04_Sep30.ipynb)|Ali|Alex|
-|4B|1sampHT+review|Oct04|Oct07|   | |
-|--|MTexam/Thnxgiv|Oct11|Oct14| | |
-|05|Regression I  |Oct18|Oct21|Shiraz|Serena|
+|4B|One Sample HT |Oct04|Oct07|Alex|Ali|
+|--|Review/Thnxgiv|Oct11|Oct14| | |
+|--|Midterm Exam  |Oct18|     | | |
+|05|Regression I  |     |Oct21|Shiraz|Serena|
 |5T|coefficientHT |Oct25|     |Alex|Ali|
 |--|Reading Week  |     |Oct28|   | |
 |--|Reading Week  |Nov01|     |   | |
-|06|2sampHT       |     |Nov04|Alex|Ali|
+|06|Two Sample HT |     |Nov04|Alex|Ali|
 |07|Regression II |[Nov08](STA130F24_TUT07_Nov08.ipynb)|[Nov11](STA130F24_LEC07_Nov11.ipynb)|Serena|Shiraz|
 |08|Classification|[Nov15](STA130F24_TUT08_Nov15.ipynb)|[Nov18](STA130F24_LEC08_Nov18.ipynb)|Ray|Edric|
 |09|Ethics        |[Nov22](STA130F24_TUT09_Nov22.ipynb)|Nov25|Edric|Ray|
