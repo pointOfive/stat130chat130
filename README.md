@@ -14,7 +14,7 @@
 |--|Review/Thnxgiv|Oct11|Oct14| | |
 |--|Midterm Exam  |Oct18|     | | |
 |05|Regression I  |     |Oct21|Shiraz|Serena|
-|5T|coefficientHT |Oct25|     |Alex|Ali|
+|5T|coefficientHT |Oct25|     |Shiraz|Alex|
 |--|Reading Week  |     |Oct28|   | |
 |--|Reading Week  |Nov01|     |   | |
 |06|Two Sample HT |     |Nov04|Alex|Ali|
