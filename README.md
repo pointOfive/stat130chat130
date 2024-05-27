@@ -13,8 +13,8 @@
 |4B|One Sample HT |Oct04|Oct07|Alex|Ali|
 |--|Review/Thnxgiv|Oct11|Oct14| | |
 |--|Midterm Exam  |Oct18|     | | |
-|05|Regression I  |     |Oct21|Shiraz|Serena|
-|5T|coefficientHT |Oct25|     |Shiraz|Alex|
+|05|Regression I  |-->|Oct21|Shiraz|Serena|
+|5T|coefficientHT |Oct25|<--|Shiraz|Alex|
 |--|Reading Week  |     |Oct28|   | |
 |--|Reading Week  |Nov01|     |   | |
 |06|Two Sample HT |     |Nov04|Alex|Ali|
