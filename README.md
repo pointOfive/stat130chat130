@@ -10,8 +10,8 @@
 |02|Coding        |[Sep13](TUT/STA130F24_TUT02_Sep13.ipynb)|[Sep16](LEC/STA130F24_LEC02_Sep16.ipynb)|Scott|Edric+Serena|
 |03|Visualization |[Sep20](TUT/STA130F24_TUT03_Sep20.ipynb)|[Sep23](LEC/STA130F24_LEC03_Sep23.ipynb)|Scott|Ali+Alex    |
 |04|Bootstrapping |[Sep27](TUT/STA130F24_TUT04_Sep27.ipynb)|[Sep30](LEC/STA130F24_LEC04_Sep30.ipynb)|Ali|Alex|
-|4T|1sampHT/Review|Oct04|Oct07|   | |
-|--|MTexam/Thnxgng|Oct11|Oct14| | |
+|4B|1sampHT+review|Oct04|Oct07|   | |
+|--|MTexam/Thnxgiv|Oct11|Oct14| | |
 |05|Regression I  |Oct18|Oct21|Shiraz|Serena|
 |5T|coefficientHT |Oct25|     |Alex|Ali|
 |--|Reading Week  |     |Oct28|   | |
