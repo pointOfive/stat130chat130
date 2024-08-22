@@ -20,7 +20,7 @@
 - [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) Discussion Board
     - Monitored from 12-1PM ET and 5-6PM ET on Tuesday and Wednesday, and 12-1PM ET on Thursday
     - Non course content questions of private rather than public nature should be directed to sta130@utoronto.ca, monitored on Mondays between and after LEC 11AM-1PM and 3-5PM ET
-- [MarkUs](https://markus4.teach.cs.toronto.edu/2023-09) where you can find and run autotests for the homework we used for the previous semester
+- [MarkUs](https://markus.teach.cs.toronto.edu/markus) <!-- https://markus4.teach.cs.toronto.edu/2023-09 --> where you can find and run autotests for the homework we used for the previous semester
     - This is now OPTIONAL, but it certainly provides good practice exercises for the topics of our course...
 
 |Week|Topic         |TUT(Friday)|LEC(Monday)|HW(Due Thursday)|
