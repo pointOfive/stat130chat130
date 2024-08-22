@@ -8,18 +8,20 @@
 |LEC0201 | Mon 1:10-3PM ET, MC 102  | |
 |TA OH   | Tue 4-6PM ET, online | |
 |TA OH   | Wed 4-6PM ET, SS 2112 | |
-|Prof OH | Thur 4-6PM ET, DoSS 9195/9199 | 9th floor 700 University |
+|Prof OH | Thur 4-6PM ET, DoSS 9195/9199 | 700 University, 9th floor |
 
 - [Quercus](https://q.utoronto.ca/courses/354091) 
     - [Textbook](https://github.com/pointOfive/stat130chat130/wiki)
-    - [Syllabus](https://q.utoronto.ca/courses/354091) 
-    - [Course Project](https://q.utoronto.ca/courses/354091) 
+    - [Syllabus](https://github.com/pointOfive/stat130chat130/syllabus.ipynb) 
+    - [Course Project](https://github.com/pointOfive/stat130chat130/project.ipynb) 
 - [jupyterhub](https://jupyter.utoronto.ca/) "New Python 3 (ipykernel)" 
 - "Vanilla" [ChatGPT](https://chat.openai.com/), [Microsoft Copilot](https://copilot.microsoft.com/), etc.
 - "Custom" [STA130 chatbot](https://notebooklm.google/)
 - [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) Discussion Board
     - Monitored from 12-1PM ET and 5-6PM ET on Tuesday and Wednesday, and 12-1PM ET on Thursday
     - Non course content questions of private rather than public nature should be directed to sta130@utoronto.ca, monitored on Mondays between and after LEC 11AM-1PM and 3-5PM ET
+- [MarkUs](https://markus4.teach.cs.toronto.edu/2023-09) where you can find and run autotests for the homework we used for the previous semester
+    - This is now OPTIONAL, but it certainly provides good practice exercises for the topics of our course...
 
 |Week|Topic         |TUT(Friday)|LEC(Monday)|HW(Due Thursday)|
 |:---|:-------------|:----------|:----------|:---------------|
