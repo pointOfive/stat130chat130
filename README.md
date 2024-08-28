@@ -16,7 +16,7 @@
 
 | [Quercus](https://q.utoronto.ca/courses/354091) |  [UofT JupyterHub](https://jupyter.utoronto.ca/) | [Course Textbook](https://github.com/pointOfive/stat130chat130/wiki) |
 |:-|:-|:-|
-| [Syllabus](https://github.com/pointOfive/stat130chat130/syllabus.ipynb) | "Vanilla" [ChatGPT](https://chat.openai.com/), [Microsoft Copilot](https://copilot.microsoft.com/), etc.|  Start a conversation with [NotebookLM](http://notebooklm.google/) customized to the course textbook by beginning with the prompt, "Please answer my questions based on the Week <XY> material available at https://github.com/pointOfive/chat130 Links to an external site." | 
+| [Syllabus](https://github.com/pointOfive/stat130chat130/syllabus.ipynb) | "Vanilla" [ChatGPT](https://chat.openai.com/), [Microsoft Copilot](https://copilot.microsoft.com/), etc.|  Start a conversation with [NotebookLM](http://notebooklm.google/) customized to the course textbook by beginning with the prompt, "Please answer my questions based on the Week <XY> material available at https://github.com/pointOfive/chat130." | 
 | [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) |  [Course Project](https://github.com/pointOfive/stat130chat130/project.ipynb) | OPTIONAL [MarkUs](https://markus.teach.cs.toronto.edu/markus) where you can find and run autotests for the homework we used for the previous semester, if you're looking for some good practice exercises covering the topics of our course... |
 
 ## Schedule
