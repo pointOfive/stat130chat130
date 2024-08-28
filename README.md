@@ -1,5 +1,7 @@
 # Stat130-Chat130: Introduction to Statistical Reasoning and Data Science
 
+## Meetings
+
 |What | When and Where           | there is no Why |
 |:-------|:-------------------------|:-|
 |TUT0101 | Fri 9:10-11AM ET, ACORN  | |
@@ -10,18 +12,14 @@
 |TA OH   | Wed 4-6PM ET, SS 2112 | |
 |Prof OH | Thur 4-6PM ET, DoSS 9195/9199 | 700 University, 9th floor |
 
-- [Quercus](https://q.utoronto.ca/courses/354091) 
-    - [Textbook](https://github.com/pointOfive/stat130chat130/wiki)
-    - [Syllabus](https://github.com/pointOfive/stat130chat130/syllabus.ipynb) 
-    - [Course Project](https://github.com/pointOfive/stat130chat130/project.ipynb) 
-- [jupyterhub](https://jupyter.utoronto.ca/) "New Python 3 (ipykernel)" 
-- "Vanilla" [ChatGPT](https://chat.openai.com/), [Microsoft Copilot](https://copilot.microsoft.com/), etc.
-- "Custom" [STA130 chatbot](https://notebooklm.google/)
-- [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) Discussion Board
-    - Monitored from 12-1PM ET and 5-6PM ET on Tuesday and Wednesday, and 12-1PM ET on Thursday
-    - Non course content questions of private rather than public nature should be directed to sta130@utoronto.ca, monitored on Mondays between and after LEC 11AM-1PM and 3-5PM ET
-- [MarkUs](https://markus.teach.cs.toronto.edu/markus) <!-- https://markus4.teach.cs.toronto.edu/2023-09 --> where you can find and run autotests for the homework we used for the previous semester
-    - This is now OPTIONAL, but it certainly provides good practice exercises for the topics of our course...
+## Links
+
+| [Quercus](https://q.utoronto.ca/courses/354091) |  [UofT JupyterHub](https://jupyter.utoronto.ca/) | [Course Textbook](https://github.com/pointOfive/stat130chat130/wiki) |
+|:-|:-|:-|
+| [Syllabus](https://github.com/pointOfive/stat130chat130/syllabus.ipynb) | "Vanilla" [ChatGPT](https://chat.openai.com/), [Microsoft Copilot](https://copilot.microsoft.com/), etc.|  Start a conversation with [NotebookLM](http://notebooklm.google/) customized to the course textbook by beginning with the prompt, "Please answer my questions based on the Week <XY> material available at https://github.com/pointOfive/chat130." | 
+| [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) |  [Course Project](https://github.com/pointOfive/stat130chat130/project.ipynb) | OPTIONAL [MarkUs](https://markus.teach.cs.toronto.edu/markus) where you can find and run autotests for the homework we used for the previous semester, if you're looking for some good practice exercises covering the topics of our course... |
+
+## Schedule
 
 |Week|Topic         |TUT(Friday)|LEC(Monday)|HW(Due Thursday)|
 |:---|:-------------|:----------|:----------|:---------------|
