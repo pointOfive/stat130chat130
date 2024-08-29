@@ -1,25 +1,9 @@
 # Stat130-Chat130: Introduction to Statistical Reasoning and Data Science
 
-## Meetings
-
-|What | When and Where           | there is no Why |
-|:-------|:-------------------------|:-|
-|TUT0101 | Fri 9:10-11AM ET, ACORN  | |
-|TUT0201 | Fri 2:10-4PM ET, ACORN   | |
-|LEC0101 | Mon 9:10-11AM ET, NF 003 | |
-|LEC0201 | Mon 1:10-3PM ET, MC 102  | |
-|TA OH   | Tue 4-6PM ET, online | |
-|TA OH   | Wed 4-6PM ET, SS 2112 | |
-|Prof OH | Thur 4-6PM ET, DoSS 9195/9199 | 700 University, 9th floor |
-
-## Links
-
 | [Quercus](https://q.utoronto.ca/courses/354091) |  [UofT JupyterHub](https://jupyter.utoronto.ca/) | [Course Textbook](https://github.com/pointOfive/stat130chat130/wiki) |
 |:-|:-|:-|
 | [Syllabus](https://github.com/pointOfive/stat130chat130/syllabus.ipynb) | "Vanilla" [ChatGPT](https://chat.openai.com/), [Microsoft Copilot](https://copilot.microsoft.com/), etc.|  Start a conversation with [NotebookLM](http://notebooklm.google/) customized to the course textbook by beginning with the prompt, "Please answer my questions based on the Week <XY> material available at https://github.com/pointOfive/chat130." | 
 | [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) |  [Course Project](https://github.com/pointOfive/stat130chat130/project.ipynb) | OPTIONAL [MarkUs](https://markus.teach.cs.toronto.edu/markus) where you can find and run autotests for the homework we used for the previous semester, if you're looking for some good practice exercises covering the topics of our course... |
-
-## Schedule
 
 |Week|Topic         |TUT(Friday)|LEC(Monday)|HW(Due Thursday)|
 |:---|:-------------|:----------|:----------|:---------------|
