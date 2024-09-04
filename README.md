@@ -1,6 +1,6 @@
 # Stat130-Chat130: Introduction to Statistical Reasoning and Data Science
 
-| [Quercus](https://q.utoronto.ca/courses/354091) |  [UofT JupyterHub](https://jupyter.utoronto.ca/) | [Course Textbook](https://github.com/pointOfive/stat130chat130/wiki) |
+| [Quercus](https://q.utoronto.ca/courses/354091) |  [UofT JupyterHub](https://jupyter.utoronto.ca/) (for classic jupyter notebooks or jupyterlab is fine, too) | [Course Textbook](https://github.com/pointOfive/stat130chat130/wiki) |
 |:-|:-|:-|
 | [Syllabus](https://github.com/pointOfive/stat130chat130/syllabus.ipynb) | "Vanilla" [ChatGPT](https://chat.openai.com/), [Microsoft Copilot](https://copilot.microsoft.com/), etc.|  Individual course MarkDown files available [here](https://github.com/pointOfive/chat130) can be uploaded to [NotebookLM](http://notebooklm.google/) to create a STA130 course wiki-textbook customized ChatBot | 
 | [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) |  [Course Project](https://github.com/pointOfive/stat130chat130/project.ipynb) | [Not Yet Available] OPTIONAL [MarkUs](https://markus.teach.cs.toronto.edu/markus) where you can find and run autotests for the homework we used for the previous semester, if you're looking for some good practice exercises covering the topics of our course... |
