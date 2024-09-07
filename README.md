@@ -20,7 +20,7 @@
 |08|Coefficient HT|[Oct25](STA130F24_TUT07ate09_Oct25.ipynb)|     |     |
 |--|READING WEEK  |     |Oct28|     |
 |--|READING WEEK  |Nov01|     |     |
-|09|Two Sample HT |     |[~Nov04](LEC/STA130F24_LEC09_Nov04.ipynb)|[Nov07](HW/STA130F24_HW07ate09_DueNov07.ipynb)|
+|09|Two Sample HT |     |[~Nov04](LEC/STA130F24_LEC09_Nov04.ipynb)|[Nov07](HW/STA130F24_HW06_Week07ate09_DueNov07.ipynb)|
 |10|Regression II |Nov08|Nov11|Nov14|
 |11|Classification|Nov15|Nov18|Nov21|
 |12|Metrics+Ethics|Nov22|Nov25|
