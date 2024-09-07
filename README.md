@@ -16,7 +16,7 @@
 |05|"One Sample" HT |[Oct04](TUT/STA130F24_TUT05_Oct04.ipynb)|[Oct07](LEC/STA130F24_LEC05_Oct07.ipynb)|[Oct10](HW/STA130F24_HW05_DueOct10.ipynb)|
 |--|Review/*Thxgiving*|Oct11|Oct14 *Holiday*|     |
 |--|MIDTERM EXAM  |Oct18|     |     |
-|07|Regression I  |     |[Oct21](LEC/STA130F24_LEC07_Nov04.ipynb)|     |
+|07|Regression I  |     |[~Oct21](LEC/STA130F24_LEC07_Nov04.ipynb)|     |
 |08|Coefficient HT|[Oct25](STA130F24_TUT07ate09_Oct25.ipynb)|     |     |
 |--|READING WEEK  |     |Oct28|     |
 |--|READING WEEK  |Nov01|     |     |
