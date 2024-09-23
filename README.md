@@ -7,7 +7,7 @@
 
 *For classic jupyter notebooks, or jupyterlab is fine, too (as is [google colab](https://colab.research.google.com/))
 
-|Week|Topic         |TUT(Friday)|LEC(Monday)|HW(Due Thursday)|Optional ChatBot Feedback|
+|Week|Topic         |TUT(Friday)|LEC(Monday)|HW(Due Thursday)|Optional Experience Feedback|
 |:---|:-------------|:----------|:----------|:---------------|:------------------------|
 |01|Data Summarization|[Sep06](TUT/STA130F24_TUT01_Sep06.ipynb)|[Sep09](LEC/STA130F24_LEC01_Sep09.ipynb)|[Sep12](HW/STA130F24_HW01_DueSep12.ipynb)| [Previous ChatBot Experience](https://q.utoronto.ca/courses/354091/quizzes/394873) |
 |02|Coding        |[Sep13](TUT/STA130F24_TUT02_Sep13.ipynb)|[Sep16](LEC/STA130F24_LEC02_Sep16.ipynb)|[Sep19](HW/STA130F24_HW02_DueSep19.ipynb)|  [Week 01-02 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394946) |
