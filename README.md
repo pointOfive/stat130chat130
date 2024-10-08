@@ -3,7 +3,7 @@
 | [Quercus](https://q.utoronto.ca/courses/354091/pages/sta130-all-sections) | [UofT JupyterHub](https://jupyter.utoronto.ca/)* | "Vanilla" ChatBots like [ChatGPT](https://chat.openai.com/), [Copilot](https://copilot.microsoft.com/), etc. |
 |:-|:-|:-|
 | [Syllabus](https://q.utoronto.ca/courses/354091/assignments/syllabus) | [Course Wiki-Textbook](https://github.com/pointOfive/stat130chat130/wiki) --> | Individual course MarkDown files available [here](https://github.com/pointOfive/chat130) can be uploaded to<br>[NotebookLM](http://notebooklm.google/) to create a STA130 course wiki-textbook customized ChatBot | 
-| [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) | [Course Project](https://github.com/pointOfive/stat130chat130/tree/main/CP) | [Not Yet Available] OPTIONAL [MarkUs](https://markus.teach.cs.toronto.edu/markus) where you can find and run autotests<br>for the homework we used for the previous semester, if you're looking for<br>some good practice exercises covering the topics of our course... |
+| [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) | [Course Project](https://github.com/pointOfive/stat130chat130/tree/main/CP) | **OPTIONAL [MarkUs](https://markus.teach.cs.toronto.edu/markus/courses/8/assignments)** where you can find and run autotests<br>for the homework we used for the previous semester, if you're looking for<br>some good practice exercises covering the topics of our course... |
 
 *For classic jupyter notebooks, or jupyterlab is fine, too (as is [google colab](https://colab.research.google.com/))
 
@@ -14,7 +14,7 @@
 |03|Visualization |[Sep20](TUT/STA130F24_TUT03_Sep20.ipynb)|[Sep23](LEC/STA130F24_LEC03_Sep23.ipynb)|[Sep26](HW/STA130F24_HW03_DueSep26.ipynb)| [Week 02-03 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394963) |
 |04|Bootstrapping |[Sep27](TUT/STA130F24_TUT04_Sep27.ipynb)|[Sep30](LEC/STA130F24_LEC04_Sep30.ipynb)|[Oct03](HW/STA130F24_HW04_DueOct03.ipynb)| [Week 03-04 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394956)|
 |05|"One Sample" HT |[Oct04](TUT/STA130F24_TUT05_Oct04.ipynb)|[Oct07](LEC/STA130F24_LEC05_Oct07.ipynb)|[Oct10](HW/STA130F24_HW05_DueOct10.ipynb)| [Week 04-05 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394967)|
-|--|Review/*Thxgiving*|Oct11|Oct14 *Holiday*|     | |
+|--|Review/*Thxgiving*|[Oct11](TUT/STA130F24_TUT06_Oct11.ipynb)|Oct14 *Holiday*|     | |
 |--|MIDTERM EXAM  |Oct18|     |     | |
 |07|Regression I  |     |[~Oct21](LEC/STA130F24_LEC07_Nov04.ipynb)|     | |
 |08|Coefficient HT|[Oct25](STA130F24_TUT07ate09_Oct25.ipynb)|     |     | |
