@@ -7,6 +7,12 @@
 
 *For classic jupyter notebooks, or jupyterlab is fine, too (as is [google colab](https://colab.research.google.com/))
 
+> ............................................................................................................................
+> 
+> It's time for that [**>>>>> COURSE PROJECT <<<<<**](https://github.com/pointOfive/stat130chat130/tree/main/CP) y'all it's that season
+> 
+> ............................................................................................................................
+
 |Week|Topic         |TUT(Friday)|LEC(Monday)|HW(Due Thursday)|Optional Experience Feedback|
 |:---|:-------------|:----------|:----------|:---------------|:------------------------|
 |01|Data Summarization|[Sep06](TUT/STA130F24_TUT01_Sep06.ipynb)|[Sep09](LEC/STA130F24_LEC01_Sep09.ipynb)|[Sep12](HW/STA130F24_HW01_DueSep12.ipynb)| [Previous ChatBot Experience](https://q.utoronto.ca/courses/354091/quizzes/394873) |
@@ -15,9 +21,9 @@
 |04|Bootstrapping |[Sep27](TUT/STA130F24_TUT04_Sep27.ipynb)|[Sep30](LEC/STA130F24_LEC04_Sep30.ipynb)|[Oct03](HW/STA130F24_HW04_DueOct03.ipynb)| [Week 03-04 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394956)|
 |05|"One Sample" HT |[Oct04](TUT/STA130F24_TUT05_Oct04.ipynb)|[Oct07](LEC/STA130F24_LEC05_Oct07.ipynb)|[Oct10](HW/STA130F24_HW05_DueOct10.ipynb)| [Week 04-05 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394967)|
 |--|Review/*Thxgiving*|[Oct11](TUT/STA130F24_TUT06_Oct11.ipynb)|Oct14 *Holiday*|     | |
-|--|MIDTERM EXAM  |Oct18|     |     | |
-|07|Regression I  |     |[Oct21](LEC/STA130F24_LEC07_Oct21.ipynb)|     | |
-|08|Coefficient HT|[Oct25](TUT/STA130F24_TUT07ate09_Oct25.ipynb)|     |     | |
+|--|MIDTERM EXAM  |Oct18|     |  **AFTER MIDTERM>>>>>** | [Week 04-05 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/418988) **REDUX** |
+|07|Regression I  |     |[Oct21](LEC/STA130F24_LEC07_Oct21.ipynb)|     | [MIDWAY ChatBot experience FEEDBACK](https://q.utoronto.ca/courses/354091/quizzes/394961) |
+|08|Coefficient HT|[Oct25](TUT/STA130F24_TUT07ate09_Oct25.ipynb)| | [**>>COURSE PROJECT<<**](https://github.com/pointOfive/stat130chat130/tree/main/CP) | |
 |--|READING WEEK  |     |Oct28|     | |
 |--|READING WEEK  |Nov01|     |     | |
 |09|Two Sample HT |     |[~Nov04](LEC/STA130F24_LEC09_Nov04.ipynb)|[Nov07](HW/STA130F24_HW06_Week07ate09_DueNov07.ipynb)| |
