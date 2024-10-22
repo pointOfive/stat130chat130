@@ -21,7 +21,7 @@
 |04|Bootstrapping |[Sep27](TUT/STA130F24_TUT04_Sep27.ipynb)|[Sep30](LEC/STA130F24_LEC04_Sep30.ipynb)|[Oct03](HW/STA130F24_HW04_DueOct03.ipynb)| [Week 03-04 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394956)|
 |05|"One Sample" HT |[Oct04](TUT/STA130F24_TUT05_Oct04.ipynb)|[Oct07](LEC/STA130F24_LEC05_Oct07.ipynb)|[Oct10](HW/STA130F24_HW05_DueOct10.ipynb)| [Week 04-05 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394967)|
 |--|Review/*Thxgiving*|[Oct11](TUT/STA130F24_TUT06_Oct11.ipynb)|Oct14 *Holiday*|     | |
-|--|MIDTERM EXAM  |Oct18|     | **AFTER MIDTERM>>>>>**| [MIDWAY ChatBot experience FEEDBACK](https://q.utoronto.ca/courses/354091/quizzes/394961) |
+|--|MIDTERM EXAM  |Oct18|     | **AFTER MIDTERM>>>>>**| [**MIDWAY ChatBot experience FEEDBACK**](https://q.utoronto.ca/courses/354091/quizzes/394961) |
 |07|Regression I  |     |[Oct21](LEC/STA130F24_LEC07_Oct21.ipynb)| **AFTER MIDTERM>>>>>** | [Week 04-05 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/418988) **REDUX** |
 |08|Coefficient HT|[Oct25](TUT/STA130F24_TUT07ate09_Oct25.ipynb)| | [**>>COURSE PROJECT<<**](https://github.com/pointOfive/stat130chat130/tree/main/CP) | |
 |--|READING WEEK  |     |Oct28|     | |
