@@ -1,8 +1,8 @@
 # Stat130-Chat130: Introduction to Statistical Reasoning and Data Science
 
-| [Quercus](https://q.utoronto.ca/courses/354091/pages/sta130-all-sections) | [UofT JupyterHub](https://jupyter.utoronto.ca/)* | "Vanilla" ChatBots like [ChatGPT](https://chat.openai.com/), [Copilot](https://copilot.microsoft.com/), etc. |
+| [Quercus](https://q.utoronto.ca/courses/354091/pages/sta130-all-sections) | [UofT JupyterHub](https://jupyter.utoronto.ca/)* | "Vanilla" [ChatGPT](https://chat.openai.com/), [Copilot](https://copilot.microsoft.com/), etc. AND The STA130 Custom [NotebookLM](http://notebooklm.google/)|
 |:-|:-|:-|
-| [Syllabus](https://q.utoronto.ca/courses/354091/assignments/syllabus) | [Course Wiki-Textbook](https://github.com/pointOfive/stat130chat130/wiki) > | Individual course MarkDown files available [here](https://github.com/pointOfive/chat130) can be uploaded to<br>[NotebookLM](http://notebooklm.google/) to create a STA130 course wiki-textbook customized ChatBot | 
+| [Syllabus](https://q.utoronto.ca/courses/354091/assignments/syllabus) | [Course Wiki-Textbook](https://github.com/pointOfive/stat130chat130/wiki) > | Individual course MarkDown files available [here](https://github.com/pointOfive/chat130) can be uploaded to<br>[NotebookLM](https://github.com/pointOfive/stat130chat130/wiki) to create a STA130 course wiki-textbook customized ChatBot | 
 | [Piazza](https://piazza.com/utoronto.ca/fall2024/sta130) | [Course Project](https://github.com/pointOfive/stat130chat130/tree/main/CP) | **OPTIONAL [MarkUs](https://markus.teach.cs.toronto.edu/markus/courses/8/assignments)** where you can find and run autotests<br>for the homework we used for the previous semester, if you're looking for<br>some good practice exercises covering the topics of our course... |
 
 *For classic jupyter notebooks, or jupyterlab is fine, too (as is [google colab](https://colab.research.google.com/))
