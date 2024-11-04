@@ -26,7 +26,7 @@
 |08|Coefficient HT|[Oct25](TUT/STA130F24_TUT07ate09_Oct25.ipynb)| | [**>>COURSE PROJECT<<**](https://github.com/pointOfive/stat130chat130/tree/main/CP) | |
 |--|READING WEEK  |     |Oct28|     | |
 |--|READING WEEK  |Nov01|     |     | |
-|09|Two Sample HT |     |[Nov04](LEC/STA130F24_LEC_Week09_Nov04.ipynb)|[Nov07](HW/STA130F24_HW06_Week07ate09_DueNov07.ipynb)| |
+|09|Two Sample HT |     |[Nov04](LEC/STA130F24_LEC_Week09_Nov04.ipynb)|[Nov07](HW/STA130F24_HW06_Week07ate09_DueNov07.ipynb)|  [Week 7ate9 ChatBot Feedback](https://q.utoronto.ca/courses/354091/quizzes/394968) |
 |10|Regression II |[Nov08](TUT/STA130F24_TUT10_Nov08.ipynb)|[~Nov11](LEC/STA130F24_LEC10_Nov11_original_draft.ipynb)|[Nov14](HW/STA130F24_HW07_Week10_DueNov14.ipynb)| |
 |11|Classification|[Nov15](TUT/STA130F24_TUT11_Nov15.ipynb)|[Nov18](LEC/STA130F24_LEC11_Nov18.ipynb)|[Nov21](HW/STA130F24_HW08_Week11_DueNov21.ipynb)| |
 |12|Metrics+Ethics|Nov22|Nov25| |
